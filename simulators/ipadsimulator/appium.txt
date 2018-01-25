@@ -1,0 +1,10 @@
+[caps]
+platformName = "ios"
+deviceName = "iPad Air 2"
+platformVersion = "11.2"
+noReset = "true"
+app = "/Users/selena.grant/Library/Developer/Xcode/DerivedData/WebDriverAgent-clhtuaoobwljejaryomtzsvxldkt/Build/Products/Debug-iphonesimulator/IntegrationApp.app"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
