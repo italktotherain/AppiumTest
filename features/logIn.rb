@@ -3,6 +3,7 @@ require 'selenium-webdriver'
 
 Given (/^I have App running with appium$/) do
 #   Make sure appium server has been started
+#   The test is going to fail if it isn't, but in terms of readability it's good to have I guess?
 end
 
 Then (/^I select Alerts$/) do
